@@ -1,6 +1,6 @@
 {
-    "name": "flutter_application_mlkit_face",
-    "short_name": "flutter_application_mlkit_face",
+    "name": "flutter_application_mlkit",
+    "short_name": "flutter_application_mlkit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
